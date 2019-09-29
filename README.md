@@ -3,6 +3,7 @@ A list of useful and awesome sites 📑😻
 
 #### Development 💻
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+- [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges
 - [Devhints](https://devhints.io/) - A collection of dev cheatsheets.
 - [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
@@ -12,7 +13,6 @@ A list of useful and awesome sites 📑😻
 - [tailwind-colors](https://tailwind-colors.meidev.co/) - Tailwind CSS color configration tool
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
-- [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
 - [IMGBIN](https://imgbin.com/) - Get unlimited access to millions of free transparent PNG files
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
