@@ -11,12 +11,15 @@ A list of useful and awesome sites 📑😻
 - [Sshwifty](https://sshwifty.herokuapp.com/) - An Open Source Web SSH Client that enables you to connect to SSH servers without download any additional software.
 - [30 seconds of code](https://www.30secondsofcode.org/) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [tailwind-colors](https://tailwind-colors.meidev.co/) - Tailwind CSS color configration tool
+
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [IMGBIN](https://imgbin.com/) - Get unlimited access to millions of free transparent PNG files
 - [Moose](https://photos.icons8.com/) - Realistic photos collages
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 - [Icons8](https://icons8.com/icons) - Free vector icons.
+- [ICONSVG](https://iconsvg.xyz/) - A tool to find, customize and download common interface icons
+
 #### Skill UP 🚀
 - [Livechatinc](https://www.livechatinc.com/typing-speed-test/#/) - Typing Speed Test
 
