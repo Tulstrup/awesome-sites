@@ -20,6 +20,7 @@ A list of useful and awesome sites 📑😻
 - [Icons8](https://icons8.com/icons) - Free vector icons.
 - [ICONSVG](https://iconsvg.xyz/) - A tool to find, customize and download common interface icons
 - [Blobmaker](https://www.blobmaker.app/) - Make organic SVG shapes for your next design. 
+- [Picas](https://picas.now.sh/) - Generate logos with google fonts
 
 #### Skill UP 🚀
 - [Livechatinc](https://www.livechatinc.com/typing-speed-test/#/) - Typing Speed Test
