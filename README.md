@@ -1,5 +1,11 @@
-# awesome-sites
-A list of useful and awesome sites 📑😻
+<div align="center">
+  <img width="300" height="200"
+    src="https://raw.githubusercontent.com/Gherciu/awesome-sites/master/logo.png">
+  <h1>awesome-sites</h1>
+  <p>A list of useful and awesome sites 📑😻</p>
+</div>
+
+[![GitHub](https://img.shields.io/github/license/Gherciu/awesome-sites)](https://github.com/Gherciu/awesome-sites/blob/master/LICENSE)
 
 #### Development 💻
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
