@@ -12,6 +12,7 @@ A list of useful and awesome sites 📑😻
 - [30 seconds of code](https://www.30secondsofcode.org/) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [tailwind-colors](https://tailwind-colors.meidev.co/) - Tailwind CSS color configration tool
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/) - Css Grid generator
+- [PurifyCSS](https://purifycss.online/#) - Remove unused CSS code from your stylesheets
 
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
