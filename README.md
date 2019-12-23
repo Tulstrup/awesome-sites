@@ -19,6 +19,7 @@
 - [tailwind-colors](https://tailwind-colors.meidev.co/) - Tailwind CSS color configration tool
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/) - Css Grid generator
 - [PurifyCSS](https://purifycss.online/#) - Remove unused CSS code from your stylesheets
+- [Namae](https://namae.dev/) - Check availability of your new app name candidates for major registries at once.
 
 #### Graphics (photos, icons, ilustrations 🤳
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
