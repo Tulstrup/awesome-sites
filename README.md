@@ -44,6 +44,11 @@
 2. Edit `README.md` file
 3. Submit a pull request 😜
 
+#### Or you can sponsor via [Open Collective](https://opencollective.com/gherciu-gheorghe/)
+
+[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/gherciu-gheorghe/)
+
+
 ## Author
 
 **[@Gherciu/awesome-sites](https://github.com/Gherciu/awesome-sites)** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/awesome-sites/blob/master/LICENSE) License.<br>
