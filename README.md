@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" height="200"
+  <img width="auto" height="200"
     src="https://raw.githubusercontent.com/Gherciu/awesome-sites/master/logo.png">
   <h1>awesome-sites</h1>
   <p>A list of useful and awesome sites 📑😻</p>
