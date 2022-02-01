@@ -11,6 +11,7 @@
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Mockit](https://mockit.netlify.com/) - Quickly create mock APIs.
 - [Codewars](https://www.codewars.com/) - Improve your skills by training with others on real code challenges
+- [Coding Mystery](https://codingmystery.com/) - Learn programming through escape-room-inspired mysteries full of coding puzzles and programming challenges
 - [Devhints](https://devhints.io/) - A collection of dev cheatsheets.
 - [Exercism](https://exercism.io/) - Code practice and mentorship for everyone
 - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions
